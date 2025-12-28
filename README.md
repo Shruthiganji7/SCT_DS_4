@@ -30,7 +30,7 @@ Dataset
 
 US Accidents Dataset (March 2023)
 
-#How to Run
+#**How to Run**
 
 Open the notebook in Google Colab
 
