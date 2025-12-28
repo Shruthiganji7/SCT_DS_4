@@ -1,10 +1,10 @@
-Accident Hotspot & Contributing Factors Analysis
+**Accident Hotspot & Contributing Factors Analysis**
 
-Overview
+**Overview**
 
 This project focuses on analyzing a large-scale US road accident dataset to identify accident hotspots and understand key contributing factors. The analysis helps uncover patterns related to accident-prone locations and conditions influencing accident occurrences.
 
-Tools & Technologies
+**Tools & Technologies**
 
 Python
 
@@ -16,7 +16,7 @@ Matplotlib & Seaborn
 
 Folium
 
-What Was Done
+**What Was Done**
 
 Loaded and processed a large accident dataset using Google Drive and Colab
 
@@ -26,11 +26,11 @@ Analyzed contributing factors such as weather conditions, road visibility, and a
 
 Created clear visualizations to support insights and pattern identification
 
-Dataset
+**Dataset**
 
 US Accidents Dataset (March 2023)
 
-#**How to Run**
+**How to Run**
 
 Open the notebook in Google Colab
 
@@ -38,6 +38,6 @@ Mount Google Drive and upload the dataset
 
 Run the cells sequentially
 
-#Outcome
+**Outcome**
 
 Gained hands-on experience in handling large datasets, performing exploratory data analysis, and visualizing geospatial data to extract meaningful insights.
